@@ -54,7 +54,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Your Hacker House</title>
+        <title>ETHers over React (WAGMI this time)</title>
         <meta
           name="description"
           content="We're running an experiment to retroactively fund open-source work by providing a monthly UBI to handpicked open-source developers, and rewarding them for their ongoing contributions to the ecosystem."
